@@ -1,0 +1,31 @@
+#first:hover
+{
+color: black;
+}
+
+body {
+  background-color:#EAF6F6;
+}
+hr {
+  border-style:none;
+    border-top-style:dotted;
+  border-color: grey;
+border-width: 6px;
+width: 4%;
+}
+h1
+{
+   color:#66BFBF;
+ }
+ h3
+ {
+   color: #66BFBF;
+ }
+ #second:hover
+ {
+ color: black;
+ }
+ #third:hover
+ {
+ color: black;
+ }
